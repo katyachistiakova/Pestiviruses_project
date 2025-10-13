@@ -1,10 +1,10 @@
-# Pestiviruses_project\
-🗂full_data\
-CDS_full.fasta - все последовательности CDS (старые + новые)\
-full_record.csv - таблица с аннотацией ко всем последовательностям\
-full_sequences.acc - accessions для всех последовательностей\
-no_cds_processing.log - accessions, для которых не была найдена CDS
+# Pestiviruses_project
+🗂<strong>full_data</strong>\
+<strong>CDS_full.fasta</strong> - все последовательности CDS (старые + новые)\
+<strong>full_record.csv</strong> - таблица с аннотацией ко всем последовательностям\
+<strong>full_sequences.acc</strong> - accessions для всех последовательностей\
+<strong>no_cds_processing.log</strong> - accessions, для которых не была найдена CDS
 
-🗂new_data\
-new_pestivirus_records.csv - таблица с аннотацией к новым последовательностям\
-new_sequences.acc - accessions для новых последовательностей
+🗂<strong>new_data\
+<strong>new_pestivirus_records.csv</strong> - таблица с аннотацией к новым последовательностям\
+<strong>new_sequences.acc</strong> - accessions для новых последовательностей

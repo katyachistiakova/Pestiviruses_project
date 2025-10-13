@@ -1,4 +1,4 @@
-#Лабжурнал
+# Лабжурнал
 Поиск последовательностей в NCBI virus\
 Фильтры:\
 virus/taxomy: Pestivirus, taxid:11095\

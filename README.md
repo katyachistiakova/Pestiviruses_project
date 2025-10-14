@@ -4,7 +4,7 @@
 <strong>full_record.csv</strong> - таблица с аннотацией ко всем последовательностям\
 <strong>full_sequences.acc</strong> - accessions для всех последовательностей\
 <strong>no_cds_orfs.fasta</strong> - предсказанные ORFs последовательностей, для которых не была найдена CDS\
-<strong>CDS_full_full_record.fasta</strong> - последовательности CDS и ORF
+<strong>all_full_CDS.fasta</strong> - последовательности CDS и ORF
 
 🗂<strong>new_data</strong>\
 <strong>new_pestivirus_records.csv</strong> - таблица с аннотацией к новым последовательностям\

@@ -24,3 +24,9 @@
 
 🗂<strong>domains</strong>\
 <strong>domresults.tbl</strong> - результат поиска доменов по отобранным последовательностям с помощью hmmscan
+
+🗂<strong>reference</strong>\
+Домены, найденные для геномов родов Hepacivirus и Pegivirus
+<strong>.fasta</strong> - CDS translated sequences
+<strong>.domains</strong> - Domain Analyser 2.0 output, contains domain coords
+<strong>.svg</strong> - visualization

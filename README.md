@@ -21,3 +21,6 @@
 <strong>aa_muscle_alignment.fasta</strong> - аминокислотное выравнивание muscle\
 <strong>nt_pal_mafft_alignment.fasta</strong> - нуклеотидное выравнивание, полученное с помощью pal2nal из выравнивания mafft\
 <strong>nt_pal_muscle_alignment.fasta</strong> - нуклеотидное выравнивание, полученное с помощью pal2nal из выравнивания muscle
+
+🗂<strong>domains</strong>\
+<strong>domresults.tbl</strong> - результат поиска доменов по отобранным последовательностям с помощью hmmscan

@@ -15,6 +15,7 @@
 🗂<strong>code</strong>\
 <strong>CDS_search.ipynb</strong> - код для скачивания CDS\
 <strong>translate2aa.ipynb</strong> - код для очистки и трансляции последовательностей
+<strong>NS5_cut.ipynb</strong> - код для вырезания доменов RDRP_ из последовательстей по координатам в белке
 
 🗂<strong>alignments</strong>\
 <strong>aa_mafft_alignment.fasta</strong> - аминокислотное выравнивание mafft\
@@ -24,6 +25,13 @@
 
 🗂<strong>domains</strong>\
 <strong>domresults.tbl</strong> - результат поиска доменов по отобранным последовательностям с помощью hmmscan
+
+🗂<strong>NS5_small</strong>\
+<strong>NS5_mafft.fasta</strong> - выравнивание mafft аминокислотных последовтельностей полимеразы
+<strong>aa_NS5_for_tree.fasta</strong> - аминокислотные последовательности полимеразы
+<strong>nt_NS5_for_tree.fasta</strong> - нуклеотидные последовательности полимеразы
+<strong>pal_NS5.fasta</strong> - нуклеотидное выравнивание полимеразы
+<strong>pal_NS5.fasta.treefile</strong> - дерево, построенное iqtree
 
 🗂<strong>reference</strong>\
 Домены, найденные для геномов родов Hepacivirus и Pegivirus

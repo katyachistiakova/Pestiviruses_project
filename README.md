@@ -35,6 +35,16 @@
 <strong>pal_NS5.fasta</strong> - нуклеотидное выравнивание полимеразы
 <strong>pal_NS5.fasta.treefile</strong> - дерево, построенное iqtree
 
+🗂<strong>short_data</strong>\
+<strong>nt_pal_small_mafft.fasta</strong> - нуклеотидное выравнивание pal2nal, полученное из выравнивания mafft
+<strong>nt_pal_small_muscle.fasta</strong> - нуклеотидное выравнивание pal2nal, полученное из выравнивания muscle
+<strong>small_search_pfam.domains</strong> - результаты поиска доменов DomainAnalyser
+<strong>small_clusters.fasta</strong> - нуклеотидные последовательности
+<strong>small_clusters.fasta.clstr</strong> - кластеры, получнные cd-hit
+<strong>small_mafft.fasta</strong> - аминокислотное выравнивание mafft
+<strong>small_muscle.fasta</strong> - аминокислотное выравнивание muscle
+<strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser
+
 🗂<strong>reference</strong>\
 Домены, найденные для геномов родов Hepacivirus и Pegivirus
 <strong>.fasta</strong> - CDS translated sequences

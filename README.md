@@ -43,7 +43,14 @@
 <strong>small_clusters.fasta.clstr</strong> - кластеры, получнные cd-hit\
 <strong>small_mafft.fasta</strong> - аминокислотное выравнивание mafft\
 <strong>small_muscle.fasta</strong> - аминокислотное выравнивание muscle\
-<strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser
+<strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser\
+🗂🗂<strong>rdrp</strong>\
+<strong>BVDV_RDRP.fasta</strong> - аминокислотные последовательности RDRP группы BVDV \
+<strong>BVDV_RDRP_mafft_named.fasta</strong> - выравнивание аминокислотных последовательностей RDRP группы BVDV\
+<strong>BVDV_RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP группы BVDV\
+<strong>RDRP_LONG_ONLY.fasta</strong> - аминокислотные последовательности RDRP подвыборки из 97 последовательностей\
+<strong>RDRP_mafft_named</strong> - выравнивание аминокислотных последовательностей RDRP подвыборки из 97 последовательностей\
+<strong>RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP подвыборки из 97 последовательностей\
 
 🗂<strong>reference</strong>\
 Домены, найденные для геномов родов Hepacivirus и Pegivirus

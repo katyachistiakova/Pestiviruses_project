@@ -7,7 +7,7 @@
 <strong>aa_full_seqs.fasta</strong> - аминокислотные последовательности, очищенные и транслированные кодом translate2aa.ipynb\
 <strong>nt_ful_seqs.fasta</strong> - нуклеотидные последовательности, очищенные кодом translate2aa.ipynb\
 <strong>all_filtered_clusters.fasta</strong> - последовательности после кластеризации с порогом 99% идентичности, послученные с помощью CD-HIT
-<strong>all_filtered_clusters.fasta.clstr</strong> - кластеры с порогом 99% идентичности, послученные с помощью CD-HIT
+<strong>all_filtered_clusters.fasta.clstr</strong> - кластеры с порогом 99% идентичности, послученные с помощью CD-HIT\
 🗂<strong>new_data</strong>\
 <strong>new_pestivirus_records.csv</strong> - таблица с аннотацией к новым последовательностям\
 <strong>new_sequences.acc</strong> - accessions для новых последовательностей

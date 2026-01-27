@@ -44,6 +44,11 @@
 <strong>small_mafft.fasta</strong> - аминокислотное выравнивание mafft\
 <strong>small_muscle.fasta</strong> - аминокислотное выравнивание muscle\
 <strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser\
+
+🗂<strong>BVDV_sample</strong>\
+<strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
+<strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
+
 🗂🗂<strong>rdrp</strong>\
 <strong>BVDV_RDRP.fasta</strong> - аминокислотные последовательности RDRP группы BVDV \
 <strong>BVDV_RDRP_mafft_named.fasta</strong> - выравнивание аминокислотных последовательностей RDRP группы BVDV\

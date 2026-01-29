@@ -45,17 +45,17 @@
 <strong>small_muscle.fasta</strong> - аминокислотное выравнивание muscle\
 <strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser\
 
-🗂<strong>BVDV_sample</strong>\
-<strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
-<strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
-
 🗂🗂<strong>rdrp</strong>\
 <strong>BVDV_RDRP.fasta</strong> - аминокислотные последовательности RDRP группы BVDV \
 <strong>BVDV_RDRP_mafft_named.fasta</strong> - выравнивание аминокислотных последовательностей RDRP группы BVDV\
-<strong>BVDV_RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP группы BVDV\
+<strong>BVDV_RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP группы BVDV о аминокислотному выравниванию\
 <strong>RDRP_LONG_ONLY.fasta</strong> - аминокислотные последовательности RDRP подвыборки из 97 последовательностей\
 <strong>RDRP_mafft_named</strong> - выравнивание аминокислотных последовательностей RDRP подвыборки из 97 последовательностей\
-<strong>RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP подвыборки из 97 последовательностей\
+<strong>RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP подвыборки из 97 последовательностей по аминокислотному выравниванию\
+
+🗂<strong>BVDV_sample</strong>\
+<strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
+<strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
 
 🗂<strong>reference</strong>\
 Домены, найденные для геномов родов Hepacivirus и Pegivirus

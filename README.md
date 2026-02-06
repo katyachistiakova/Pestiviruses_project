@@ -67,13 +67,15 @@
 <strong>tree_l.rdf</strong> - дерево ао нуклеотидному выравниванию с bootstrap
 
 🗂<strong>reference</strong>\
-Домены, найденные для геномов родов Hepacivirus и Pegivirus
-<strong>.fasta</strong> - CDS translated sequences
-<strong>.domains</strong> - Domain Analyser 2.0 output, contains domain coords
+Домены, найденные для геномов родов Hepacivirus и Pegivirus\
+<strong>.fasta</strong> - CDS translated sequences\
+<strong>.domains</strong> - Domain Analyser 2.0 output, contains domain coords\
 <strong>.svg</strong> - visualization
 
-🗂<strong>reference</strong>\
-Домены, найденные для геномов родов Hepacivirus и Pegivirus
-<strong>.fasta</strong> - CDS translated sequences
-<strong>.domains</strong> - Domain Analyser 2.0 output, contains domain coords
-<strong>.svg</strong> - visualization
+🗂<strong>swine_fever</strong>\
+<strong>aa_swine.fasta</strong> - аминокислотные последовательности swine fever virus\
+<strong>nt_swine.fasta</strong> - нуклеотидные последовательности swine fever virus\
+<strong>swine_99_clusters.clstr</strong> - кластеры с порогом идентичночти 99 sfv\
+<strong>swine_dom.tdl</strong> - домены, найденные по профилю PPHMMDB.hmm\
+<strong>swine_mafft.fasta</strong> - аминокислотное выравнивание mafft sfv \
+<strong>swine_pal.fasta</strong> - нуклеотидное выранвиание pal2nal sfv

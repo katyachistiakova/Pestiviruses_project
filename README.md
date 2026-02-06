@@ -58,6 +58,20 @@
 <strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
 <strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
 
+🗂🗂<strong>BVDV_tree</strong>\
+<strong>aa_BVDV_RDRP.fasta</strong> - аминокислотные последовательности BVDV RDRP\
+<strong>mafft_BVDV_R.fasta</strong> - выравнивание mafft аминокислотных последовательностей BVDV RDRP\
+<strong>nt_BVDV_RDRP.fasta</strong> - нуклеотидные последовательности BVDV RDRP\
+<strong>pal2nal_BVDV_RDRP.fasta</strong> - выравнивание pal2nal нуклеотидных последовательностей BVDV RDRP\
+<strong>tree_BVDV_RDRP.treefile</strong> - newick файл дерева RDRP BVDV по нуклеотидному выравниванию\
+<strong>tree_l.rdf</strong> - дерево ао нуклеотидному выравниванию с bootstrap
+
+🗂<strong>reference</strong>\
+Домены, найденные для геномов родов Hepacivirus и Pegivirus
+<strong>.fasta</strong> - CDS translated sequences
+<strong>.domains</strong> - Domain Analyser 2.0 output, contains domain coords
+<strong>.svg</strong> - visualization
+
 🗂<strong>reference</strong>\
 Домены, найденные для геномов родов Hepacivirus и Pegivirus
 <strong>.fasta</strong> - CDS translated sequences

@@ -79,3 +79,10 @@
 <strong>swine_dom.tdl</strong> - домены, найденные по профилю PPHMMDB.hmm\
 <strong>swine_mafft.fasta</strong> - аминокислотное выравнивание mafft sfv \
 <strong>swine_pal.fasta</strong> - нуклеотидное выранвиание pal2nal sfv
+
+🗂<strong>atypical_porcine</strong>\
+<strong>aa_porcine.fasta</strong> - аминокислотные последовательности apv\
+<strong>nt_porcine.fasta</strong> - нуклеотидные последовательности apv\
+<strong>porcine_dom.tbl</strong> - домены, найденные по профилю PPHMMDB.hmm\
+<strong>porcine_mafft.fasta</strong> - аминокислотное выравнивание mafft apv\
+<strong>porcine_pal.fasta</strong> - нуклеотидное выранвиание pal2nal apv

@@ -29,7 +29,8 @@ pip install biopython numpy
 ## Использование
 
 Базовый запуск:
-```python insertions_search.py -i input_alignment.fasta -o_f all_insertions.fasta -o_s insertions_summary.tsv
+```bash
+python insertions_search.py -i input_alignment.fasta -o_f all_insertions.fasta -o_s insertions_summary.tsv
 ```
 
 Дополнительно:
@@ -40,7 +41,8 @@ pip install biopython numpy
 --hmm: путь к HMM файлу (опционально)
 
 Пример запуска с HMM и порогом:
-```python insertions_search.py -i input_alignment.fasta -o_f all_insertions.fasta -o_s insertions_summary.tsv --min_len 3 --gap_thr 0.8 --hmm profiles.hmm
+```bash
+python insertions_search.py -i input_alignment.fasta -o_f all_insertions.fasta -o_s insertions_summary.tsv --min_len 3 --gap_thr 0.8 --hmm profiles.hmm
 ```
 
 ## Выходные файлы

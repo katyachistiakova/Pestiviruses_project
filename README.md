@@ -87,7 +87,8 @@
 <strong>rdrp_bd_mafft.fasta</strong> - аминокислотное выравнивание mafft bd\
 <strong>rdrp_bd_pal.fasta</strong> - нуклеотидное выранвиание pal2nal bd\
 <strong>rdrp_bd_tree.treefile</strong> - newick дерева по нуклеотидным последовательностям RDRP bd\
-<strong>tree_bd.pdf</strong> - дерево по нуклеотидным последовательностям RDRP bd 
+<strong>tree_bd.pdf</strong> - дерево по нуклеотидным последовательностям RDRP bd\
+<strong>bd_small_colored_alignment.jvp</strong> - аминокислотное выравнивание маленькой выборки bd (с дерева) с разметкой доменов
 
 🗂🗂<strong>swine_fever</strong>\
 <strong>aa_swine.fasta</strong> - аминокислотные последовательности swine fever virus\

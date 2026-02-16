@@ -1,9 +1,9 @@
 # Pestiviruses_project
 🗂<strong>NS5_small</strong>\
-<strong>NS5_mafft.fasta</strong> - выравнивание mafft аминокислотных последовтельностей полимеразы
-<strong>aa_NS5_for_tree.fasta</strong> - аминокислотные последовательности полимеразы
-<strong>nt_NS5_for_tree.fasta</strong> - нуклеотидные последовательности полимеразы
-<strong>pal_NS5.fasta</strong> - нуклеотидное выравнивание полимеразы
+<strong>NS5_mafft.fasta</strong> - выравнивание mafft аминокислотных последовтельностей полимеразы\
+<strong>aa_NS5_for_tree.fasta</strong> - аминокислотные последовательности полимеразы\
+<strong>nt_NS5_for_tree.fasta</strong> - нуклеотидные последовательности полимеразы\
+<strong>pal_NS5.fasta</strong> - нуклеотидное выравнивание полимеразы\
 <strong>pal_NS5.fasta.treefile</strong> - дерево, построенное iqtree
 
 🗂<strong>alignments</strong>\

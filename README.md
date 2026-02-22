@@ -65,6 +65,7 @@
 🗂🗂<strong>BVDV_sample</strong>\
 <strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
 <strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
+<strong>BVDV_pic.png</strong> - визуализация дерево + домены BVDV
 
 🗂🗂🗂<strong>BVDV_tree</strong>\
 <strong>aa_BVDV_RDRP.fasta</strong> - аминокислотные последовательности BVDV RDRP\
@@ -88,7 +89,8 @@
 <strong>rdrp_bd_pal.fasta</strong> - нуклеотидное выранвиание pal2nal bd\
 <strong>rdrp_bd_tree.treefile</strong> - newick дерева по нуклеотидным последовательностям RDRP bd\
 <strong>tree_bd.pdf</strong> - дерево по нуклеотидным последовательностям RDRP bd\
-<strong>bd_small_colored_alignment.jvp</strong> - аминокислотное выравнивание маленькой выборки bd (с дерева) с разметкой доменов
+<strong>bd_small_colored_alignment.jvp</strong> - аминокислотное выравнивание маленькой выборки bd (с дерева) с разметкой доменов\
+<strong>pic_bd.png</strong> - визуализация дерево + домены bd
 
 🗂🗂<strong>swine_fever</strong>\
 <strong>aa_swine.fasta</strong> - аминокислотные последовательности swine fever virus\

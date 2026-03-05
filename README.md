@@ -58,7 +58,6 @@
 <strong>small_mafft.fasta</strong> - аминокислотное выравнивание mafft\
 <strong>small_muscle.fasta</strong> - аминокислотное выравнивание muscle\
 <strong>small_pfam_search.svg</strong> - карта доменов с DomainAnalyser\
-
 🗂🗂<strong>rdrp</strong>\
 <strong>BVDV_RDRP.fasta</strong> - аминокислотные последовательности RDRP группы BVDV \
 <strong>BVDV_RDRP_mafft_named.fasta</strong> - выравнивание аминокислотных последовательностей RDRP группы BVDV\
@@ -68,28 +67,24 @@
 <strong>RDRP_mafft_named.fasta.treefile</strong> - дерево RDRP подвыборки из 97 последовательностей по аминокислотному выравниванию\
 
 🗂<strong>species</strong>\
-
 🗂🗂<strong>BVDV_sample</strong>\
 <strong>BVDV_alignment.jvp</strong> - проект выравнивания полипротеинов BVDV c размеченными доменами\
 <strong>insertions_overview.xlsx</strong> - результаты BLASTp для выделенных в выраванивании полипротеинов BVDV вставок\
 <strong>BVDV_hepat.png</strong> - визуализация дерево + домены BVDV аутгруппа гепатит С человека\
-<strong>BVDV_swine.png</strong> - визуализация дерево + домены BVDV аутгруппа swine fever virus
-
+<strong>BVDV_swine.png</strong> - визуализация дерево + домены BVDV аутгруппа swine fever virus\
 🗂🗂🗂<strong>BVDV_tree</strong>\
 <strong>aa_BVDV_RDRP.fasta</strong> - аминокислотные последовательности BVDV RDRP\
 <strong>mafft_BVDV_R.fasta</strong> - выравнивание mafft аминокислотных последовательностей BVDV RDRP\
 <strong>nt_BVDV_RDRP.fasta</strong> - нуклеотидные последовательности BVDV RDRP\
 <strong>pal2nal_BVDV_RDRP.fasta</strong> - выравнивание pal2nal нуклеотидных последовательностей BVDV RDRP\
 <strong>tree_BVDV_RDRP.treefile</strong> - newick файл дерева RDRP BVDV по нуклеотидному выравниванию\
-<strong>tree_l.rdf</strong> - дерево ао нуклеотидному выравниванию с bootstrap
-
+<strong>tree_l.rdf</strong> - дерево ао нуклеотидному выравниванию с bootstrap\
 🗂🗂<strong>atypical_porcine</strong>\
 <strong>aa_porcine.fasta</strong> - аминокислотные последовательности apv\
 <strong>nt_porcine.fasta</strong> - нуклеотидные последовательности apv\
 <strong>porcine_dom.tbl</strong> - домены, найденные по профилю PPHMMDB.hmm\
 <strong>porcine_mafft.fasta</strong> - аминокислотное выравнивание mafft apv\
-<strong>porcine_pal.fasta</strong> - нуклеотидное выранвиание pal2nal apv
-
+<strong>porcine_pal.fasta</strong> - нуклеотидное выранвиание pal2nal apv\
 🗂🗂<strong>border_desease</strong>\
 <strong>aa_rdrp_border.fasta</strong> - аминокислотные последовательности bd\
 <strong>nt_rdrp_border.fasta</strong> - нуклеотидные последовательности bd\
@@ -99,8 +94,7 @@
 <strong>tree_bd.pdf</strong> - дерево по нуклеотидным последовательностям RDRP bd\
 <strong>bd_small_colored_alignment.jvp</strong> - аминокислотное выравнивание маленькой выборки bd (с дерева) с разметкой доменов\
 <strong>bd_hepat.png</strong> - визуализация дерево + домены bd аутгруппа гепатит С человека\
-<strong>bd_swine.png</strong> - визуализация дерево + домены bd аутгруппа swine fever virus
-
+<strong>bd_swine.png</strong> - визуализация дерево + домены bd аутгруппа swine fever virus\
 🗂🗂<strong>swine_fever</strong>\
 <strong>aa_swine.fasta</strong> - аминокислотные последовательности swine fever virus\
 <strong>nt_swine.fasta</strong> - нуклеотидные последовательности swine fever virus\

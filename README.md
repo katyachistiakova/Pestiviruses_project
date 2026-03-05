@@ -19,7 +19,7 @@
 <strong>insertions_search.py</strong> - код для поиска неаннотированных вставок\
 <strong>PPHNNDB.hmm</strong> - профили для локализации вставок\
 <strong>README.md</strong> - файл с описанием работы кода для поиска вставок\
-🗂🗂<strong>utils</strong> 
+🗂🗂<strong>utils</strong>\
 <strong>translate2aa.py</strong> - код для очистки и трансляции последовательностей\
 Пример запуска: 
 ```bash
@@ -32,16 +32,16 @@ python domains_cut.py -f aa_seqs.fasta -d domains.tbl -o seqs_RDRP.fasta
 ```
 <strong>domain_analysis.py</strong> - код для поиска интересующих доменов в выдаче\
 Пример запуска:\
-Анализ доменов\
+Анализ доменов
 ```bash
 python domain_analysis.py analyze -i some_pfam.domains
 ```
-Сортировка последовательностей в файле\
+Сортировка последовательностей в файле
 ```bash
 python domain_analysis.py reorder -i aa_seqs.fasta --fasta_out aa_reordered.fasta --order_file tree_order.txt
 ```
 <strong>header_corrector.py</strong> - код для коррекции названий последовательностей в файлах fasta и treefile\
-Пример запуска: Переименовать заголовки в выравнивании\
+Пример запуска: Переименовать заголовки в выравнивании
 ```bash
 python header_corrector.py headers-fasta --fasta-full aa_seqs.fasta --alignment-in nt_alignment.fasta --alignment-out nt_alignment_named.fasta
 ```

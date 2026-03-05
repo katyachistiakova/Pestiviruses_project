@@ -13,10 +13,17 @@
 <strong>nt_pal_muscle_alignment.fasta</strong> - нуклеотидное выравнивание, полученное с помощью pal2nal из выравнивания muscle
 
 🗂<strong>code</strong>\
+🗂🗂<strong>CDS_search</strong>\
 <strong>CDS_search.ipynb</strong> - код для скачивания CDS\
+🗂🗂<strong>insertions_search</strong>\
+<strong>insertions_search.py</strong> - код для поиска неаннотированных вставок\
+<strong>PPHNNDB.hmm</strong> - профили для локализации вставок\
+<strong>README.md</strong> - файл с описанием работы кода для поиска вставок\
+🗂🗂<strong>utils</strong> 
 <strong>translate2aa.ipynb</strong> - код для очистки и трансляции последовательностей\
-<strong>NS5_cut.ipynb</strong> - код для вырезания доменов RDRP_ из последовательстей по координатам в белке\
-<strong>insertions_search.ipynb</strong> - код для поиска неаннотированных вставок
+<strong>domains_cut.ipynb</strong> - код для вырезания доменов RDRP из последовательстей по координатам в белке для построения филогенетических деревьев\
+<strong>domains_analysis.ipynb</strong> - код для поиска интересующих доменов в выдаче\
+<strong>headers_corrector.ipynb</strong> - код для коррекции названий последовательностей в файлах fasta и treefile
 
 🗂<strong>domains</strong>\
 <strong>domresults.tbl</strong> - результат поиска доменов по отобранным последовательностям с помощью hmmscan\

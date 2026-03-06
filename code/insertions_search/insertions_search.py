@@ -155,21 +155,21 @@ def find_insertions(alignment_file, output_fasta, output_summary, min_len=3, gap
             out.write(f"{s}\t{e}\t{l}\n")
 
         if merged_clusters:
-            out.write("\n# кластеры вставок\n")
+            out.write("\n# Insertions clusters\n")
             out.write("cluster_start\tcluster_end\tregion_length\tinsertions_count\n")
             for s, e, count in merged_clusters:
                 region_len = e - s + 1
                 out.write(f"{s}\t{e}\t{region_len}\t{count}\n")
 
-        out.write("\n# Общая статистика\n")
-        out.write(f"Всего вставок\t{len(found)}\n")
+        out.write("\n# Overall record\n")
+        out.write(f"Insertions count \t{len(found)}\n")
 
         if merged_clusters:
-            out.write(f"Всего кластеров\t{len(merged_clusters)}\n")
+            out.write(f"Clusters count \t{len(merged_clusters)}\n")
 
         if most_variable:
             s, e, region_len, count, density = most_variable
-            out.write("\n# наиболее вариабельный регион\n")
+            out.write("\n# most variable region\n")
             out.write(f"start\t{s}\n")
             out.write(f"end\t{e}\n")
             out.write(f"length\t{region_len}\n")

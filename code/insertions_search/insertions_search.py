@@ -6,6 +6,7 @@
 
 from Bio import AlignIO, SeqIO
 from Bio.SeqRecord import SeqRecord
+from Bio.Seq import Seq
 import numpy as np
 import argparse
 
@@ -105,7 +106,7 @@ def find_insertions(alignment_file, output_fasta, output_summary, min_len=3, gap
     records = []
     for sid, seq, aln_start, aln_end, length in found:
         description = f"len={length} | pos={aln_start}-{aln_end}"
-        records.append(SeqRecord(seq=seq, id=sid, description=description))
+        records.append(SeqRecord(seq=Seq(seq), id=sid, description=description))
     SeqIO.write(records, output_fasta, "fasta")
 
 #кластеризация интервалов со вставками
